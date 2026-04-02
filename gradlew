@@ -1,1 +1,1 @@
-echo "Hello from Cloud!"
+echo Hello from Cloud
